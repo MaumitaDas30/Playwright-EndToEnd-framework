@@ -1,0 +1,20 @@
+{
+  "name" : "john3",
+  "email" : "jo8855hn90019@gmail.com",
+  "password" : "john@1234",
+  "day": "15",
+  "month": "June",
+  "year": "2000",
+  "firstName" : "John1",
+  "lastName": "Josh",
+  "company": "abc solution",
+  "address": "Pune",
+  
+  "country": "India",
+  "state": "Maharastra",
+  "city": "Pune",
+  "zipcode": "63245",
+  "mobileNumber": "9632541857",
+  "productName" : "blue top"
+
+}
